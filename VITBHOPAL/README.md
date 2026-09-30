@@ -77,14 +77,23 @@ Manual test cases (need internet) are listed in the project report.
 
 ## Screenshots
 Currency Converting:
+
 <img width="634" height="258" alt="Screenshot 2026-09-30 212624" src="https://github.com/user-attachments/assets/923e4c33-dedb-4a53-905d-b347e3bafc4b" />
+
 Currency not found:
+
 <img width="600" height="174" alt="Screenshot 2026-09-30 212656" src="https://github.com/user-attachments/assets/af86bbbb-2ce1-443e-b861-100526231c1d" />
+
 currency code to name or vice-versa:
+
 <img width="654" height="168" alt="Screenshot 2026-09-30 212720" src="https://github.com/user-attachments/assets/fd0bb015-cbf7-4e3c-9320-44103fd22aab" />
+
 Currency History:
+
 <img width="640" height="224" alt="Screenshot 2026-09-30 212737" src="https://github.com/user-attachments/assets/dc03bde7-ec54-40b0-a9dd-cf6906ae06b1" />
+
 Exit output:
+
 <img width="667" height="188" alt="Screenshot 2026-09-30 212755" src="https://github.com/user-attachments/assets/e6d3a61b-7fe8-4d78-8e76-5056fc1bad5e" />
 
 
