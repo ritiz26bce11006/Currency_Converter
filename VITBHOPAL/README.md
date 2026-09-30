@@ -76,15 +76,15 @@ The tests check the validator, the calculation, the search and the history file.
 Manual test cases (need internet) are listed in the project report.
 
 ## Screenshots
-In this image currency converted from one currency to another.
+Currency Converting:
 <img width="634" height="258" alt="Screenshot 2026-09-30 212624" src="https://github.com/user-attachments/assets/923e4c33-dedb-4a53-905d-b347e3bafc4b" />
-If we put the currency that not present in currency list then shows no currency found.
+Currency not found:
 <img width="600" height="174" alt="Screenshot 2026-09-30 212656" src="https://github.com/user-attachments/assets/af86bbbb-2ce1-443e-b861-100526231c1d" />
-In this image we have to find currency code from currency name or currency name to currency code
+currency code to name or vice-versa:
 <img width="654" height="168" alt="Screenshot 2026-09-30 212720" src="https://github.com/user-attachments/assets/fd0bb015-cbf7-4e3c-9320-44103fd22aab" />
-This image shows history of currency that searched by us.
+Currency History:
 <img width="640" height="224" alt="Screenshot 2026-09-30 212737" src="https://github.com/user-attachments/assets/dc03bde7-ec54-40b0-a9dd-cf6906ae06b1" />
-In this last image, shows exit outcome that give us Thank you for using world currency converter.
+Exit output:
 <img width="667" height="188" alt="Screenshot 2026-09-30 212755" src="https://github.com/user-attachments/assets/e6d3a61b-7fe8-4d78-8e76-5056fc1bad5e" />
 
 
